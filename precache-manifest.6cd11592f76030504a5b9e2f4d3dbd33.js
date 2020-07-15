@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f241699aada6a611f9d3c07744f3fd0a",
+    "revision": "af554644d9dcf8bc28a8639b24535e0e",
     "url": "/visitour/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visitour/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "a7e304eff8d35c31e522",
+    "revision": "8f992f4fa56cafa72e28",
     "url": "/visitour/static/css/main.80cdfb27.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visitour/static/js/2.1e370ee1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7e304eff8d35c31e522",
-    "url": "/visitour/static/js/main.ec695ec1.chunk.js"
+    "revision": "8f992f4fa56cafa72e28",
+    "url": "/visitour/static/js/main.35e35da7.chunk.js"
   },
   {
     "revision": "897a13187765dc394c90",
