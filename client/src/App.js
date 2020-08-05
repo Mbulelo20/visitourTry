@@ -9,7 +9,7 @@ import Login from './components/auth/Login'
 import AuthState from './context/auth/AuthState';
 import AlertState from './context/alert/AlertState'
 import Blog from './components/Blog'
-import CapeTown from './components/Capetown'
+import CapeTown from './components/Cape-town'
 import Joburg from './components/Joburg'
 import Durban from './components/Durban'
 import Coming from './components/Coming'
