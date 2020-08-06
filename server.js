@@ -7,8 +7,6 @@ connectDB();
 
 app.use(express.json({extended:false}))
 
-app.get('/', (req, res) => res.json({msg: 'hi there...'}))
-
 app.use('/api/comments', require('./components/comments'));
 app.use('/api/auth', require('./components/auth'));
 app.use('/api/users', require('./components/users'));
