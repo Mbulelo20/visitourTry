@@ -1,15 +1,6 @@
 import {
-    ADD_COMMENT,
-    DELETE_CONTACT,
-    SET_CURRRENT,
-    CLEAR_CURRENT,
-    UPDATE_CONTACT,
-    FILTER_CONTACTS,
-    CLEAR_CONTACTS,
-    CLEAR_FILTER,
-    CONTACT_ERROR,
-    SET_CURRENT,
-    GET_CONTACTS
+    ADD_COMMENT
+    
 } from './types';
 
 export default (state, action) => {

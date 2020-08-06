@@ -8,7 +8,6 @@ import Register from './components/auth/Register'
 import Login from './components/auth/Login'
 import AuthState from './context/auth/AuthState';
 import AlertState from './context/alert/AlertState'
-import Blog from './components/Blog'
 import CapeTown from './components/Capetown'
 import Joburg from './components/Joburg'
 import Durban from './components/Durban'
