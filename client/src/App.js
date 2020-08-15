@@ -11,7 +11,7 @@ import AlertState from './context/alert/AlertState'
 import CapeTown from './components/Capetown'
 import Joburg from './components/Joburg'
 import Durban from './components/Durban'
-import Coming from './components/Coming'
+import Coming from './components/auth/Coming'
 import Homep from './components/auth/Homep';
 import Stel from './components/Stel'
 import About from './components/About'

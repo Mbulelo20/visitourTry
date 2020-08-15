@@ -1,7 +1,7 @@
 {
-  "name": "userslogin",
+  "name": "visitour",
   "version": "1.0.0",
-  "description": "user posts section",
+  "description": "",
   "engines": {
     "node": "12.18.x"
   },
