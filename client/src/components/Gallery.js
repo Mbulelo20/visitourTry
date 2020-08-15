@@ -12,7 +12,7 @@ const Gallery = () => {
             </div>
             <div class="card-deck" style={{paddingTop:'5em'}}>
                 <div class="card" >
-                    <div style={{width:'20%', paddingLeft:'-1em'}}>
+                    <div style={{width:'100%', paddingLeft:'-1em'}}>
                         <MyCities/>
                     </div>
                 </div>
