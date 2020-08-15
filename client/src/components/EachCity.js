@@ -5,7 +5,7 @@ const EachCity = ({city: {name,tag, link, pic}}) => {
      
     return (
         <Fragment>
-        <div className="card " style={{width:'455px', margin:'0.8em', backgroundColor:"silver"}}>
+        <div className="card " style={{width:'1100px', margin:'0.8em', backgroundColor:"gray"}}>
             <div>
                 <img src={pic} alt="city" style={{width:'100%', height:'105%', margin:'0em'}} />
             </div>
