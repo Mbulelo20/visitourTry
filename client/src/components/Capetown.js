@@ -49,7 +49,7 @@ const CapeTown = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="card" style={{width: "120%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
                     <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Table Mountain</h2></center>
                     <div class="row" >
