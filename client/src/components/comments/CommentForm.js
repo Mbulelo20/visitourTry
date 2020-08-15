@@ -22,11 +22,11 @@ const CommentForm = () => {
     return (
         <form onSubmit={onSubmit}>
             <input type="text" placeholder="post a comment..." name="userComment" value={userComment} onChange={onChange}
-            style={{width:"90%", height:'100px', marginTop:'2em', paddingBottom:'1em', marginLeft:"0.5em"}}/>
+            style={{width:"93%", height:'100px', marginTop:'2em', paddingBottom:'1em', marginLeft:"0.5em"}}/>
             <div>
                 <input type='submit' 
                 value='Post'
-                className='btn btn-primary btn-block' style={{width:"30%", marginTop:'-1em'}}/>
+                className='btn btn-primary btn-block' style={{width:"30%", marginTop:'-1em', marginLeft:"0.5"}}/>
             </div>
         </form>
     )
