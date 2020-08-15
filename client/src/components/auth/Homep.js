@@ -26,7 +26,8 @@ const Homep = () => {
                             <h4>
                                 Visitour is here, to give you ideas on where you could visit.
                                 Sign in, or register for free, and you'll get to view cool information about where 
-                                you might want visit next,<br/> and post comments and interact with other users.
+                                you might want visit next
+                                ,<br/> and post comments and interact with other users.
                             </h4>
                         </p>
                     </center>

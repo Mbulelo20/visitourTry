@@ -1,5 +1,6 @@
 import React, {Fragment} from 'react'
 import PropTypes from 'prop-types'
+import {Link} from 'react-router-dom'
 const EachCity = ({city: {name,tag, link, pic}}) => {
      
     return (
@@ -11,7 +12,6 @@ const EachCity = ({city: {name,tag, link, pic}}) => {
             <div className="card-body" style={{paddingTop:"5em"}}>
                 <h2 class="card-title">{name}</h2>
                 <h5>{tag}</h5>
-                
                 <Link to={link} class="btn btn-primary">More</Link>
             </div>
         </div>
