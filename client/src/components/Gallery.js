@@ -16,7 +16,7 @@ const Gallery = () => {
                         <MyCities/>
                     </div>
                 </div>
-                <div style={{width:'30%', backgroundColor:'silver'}}>
+                <div style={{width:'30%', backgroundColor:'white'}}>
                     <CommentForm/>
                     <Comments/>
                 </div>

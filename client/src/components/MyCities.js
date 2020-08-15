@@ -96,7 +96,7 @@ class MyCities extends Component {
     }
     render() {
         return (
-            <div style={{display:'grid', gridTemplateColumns:'repeat(2, 2fr'}}>
+            <div style={{display:'grid', gridTemplateColumns:'repeat(1, 2fr'}}>
                 {this.state.cities.map(city => (
                     <EachCity key={city.id} city={city} />
                 ))}
