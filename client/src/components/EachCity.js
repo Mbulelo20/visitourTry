@@ -12,7 +12,7 @@ const EachCity = ({city: {name,tag, link, pic}}) => {
                 <h2 class="card-title">{name}</h2>
                 <h5>{tag}</h5>
                 
-                <a href={link} class="btn btn-primary">More</a>
+                <Link to={link} class="btn btn-primary">More</Link>
             </div>
         </div>
     </Fragment>
