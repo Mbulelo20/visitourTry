@@ -2,7 +2,6 @@ import React, { Fragment } from 'react'
 import MyCities from './MyCities'
 import Comments from './comments/Comments'
 import CommentForm from './comments/CommentForm'
-import {Grid, Cell} from 'react-mdl'
 
 const Gallery = () => {
     return (

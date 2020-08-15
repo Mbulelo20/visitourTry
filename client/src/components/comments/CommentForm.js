@@ -26,7 +26,7 @@ const CommentForm = () => {
             <div>
                 <input type='submit' 
                 value='Post'
-                className='btn btn-primary btn-block' style={{width:"30%", marginTop:'-1em', marginLeft:"0.5"}}/>
+                className='btn btn-primary btn-block' style={{width:"30%", marginTop:'-1em', marginLeft:"0.5em"}}/>
             </div>
         </form>
     )
