@@ -56,7 +56,31 @@ body {
     grid-template-columns: repeat(3,1fr);
     text-align: center;
 }
+.card-deck-container {
+  width: 1000px;
+  overflow-x: scroll;
+  display: flex;
+  background-color: #100e17;
+  padding: 3rem;
+}
+.card-deck {
+  min-width: 300px;
+  height: 350px;
+  border-radius: 16px;
+  background-color: #17141d;
+  box-shadow: -1rem 0 3rem #000;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  transition: 0.2s;
+}
+.card-deck:hover {
+  transform: translateY(-1rem);
+}
 
+.card-deck:hover~.card{
+  transform: translateX(130px);
+}
 .animate {
   background-color: transparent;
   transition: transform .5s; /* Animation */
