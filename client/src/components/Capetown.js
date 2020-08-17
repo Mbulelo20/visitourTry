@@ -4,13 +4,13 @@ import {Grid} from 'react-mdl'
 const CapeTown = () => {
     return (
         <Fragment>
-            <Grid style={{backgroundColor:'lightblue'}}>
-                <h1 style={{fontFamily:'sans', fontWeight:'bolder'}}><center>Cape Town</center></h1>
-                <h2><center>The Mother City</center></h2>
+            <Grid style={{backgroundColor:'lightblue', marginBottom:'2em'}}>
+                <h1 style={{fontFamily:'sans', fontWeight:'bolder', marginTop:'1em'}}><center>Cape Town</center></h1>
+                <h2 style={{fontFamily:'cursive'}}><center>The Mother City</center></h2>
             </Grid>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
-                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>V&A Waterfront</h2></center>
+                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold', marginBottom:'1em', marginTop:"1em"}}>V&A Waterfront</h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
                             <img src="https://live.staticflickr.com/7885/40507863833_f3244e74dd_b.jpg" alt="img" style={{width:'105%', height:'100%'}}/>
@@ -49,9 +49,9 @@ const CapeTown = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "120%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
-                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Table Mountain</h2></center>
+                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold', marginBottom:'1em', marginTop:"1em"}}>Table Mountain</h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
                             <img src="https://theexpeditionproject.com/wp-content/uploads/2018/07/8f0212609996c47b76a4037dd2d8d925.jpg" alt="img" style={{width:'105%', height:'100%'}}/>
@@ -90,9 +90,9 @@ const CapeTown = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
-                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Robben Island</h2></center>
+                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold', marginBottom:'1em', marginTop:"1em"}}>Robben Island</h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
                             <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/3e/a8.jpg" alt="img" style={{width:'105%', height:'100%'}}/>
@@ -118,9 +118,9 @@ const CapeTown = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
-                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Signal Hill</h2></center>
+                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold', marginBottom:'1em', marginTop:"1em"}}>Signal Hill</h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
                             <img src="https://cape-town-helicopters-bahy7f61gfqn3w.netdna-ssl.com/images/uploads/news/_newsViewImageDimensions/7313740754_0093e7f023_b-e1502703848881.jpg" alt="img" style={{width:'105%', height:'100%'}}/>
@@ -150,9 +150,9 @@ const CapeTown = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
-                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Kirstenbosch Botanical Gardens</h2></center>
+                    <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold', marginBottom:'1em', marginTop:"1em"}}>Kirstenbosch Botanical Gardens</h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
                             <img src="https://res.cloudinary.com/hynomj8e0/image/upload/c_fit,w_1200,h_1200/tz2j6zycrwiyxbm3so1m.jpg" alt="img" style={{width:'105%', height:'100%'}}/>
@@ -186,7 +186,7 @@ const CapeTown = () => {
             <Grid style={{backgroundColor:'white'}}>
                 <h1 style={{fontFamily:'sans', fontWeight:'bold', marginBottom:'3em'}}><center>Beaches</center></h1>
             </Grid>
-            <div class="card" style={{width: "90%", marginBottom:'5em', paddingTop:"5em"}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em', paddingTop:"5em"}}>
                 <div class="container" style={{margin:'-1em'}}>
                 <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
@@ -209,7 +209,7 @@ const CapeTown = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em', paddingTop:"5em"}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em', paddingTop:"5em"}}>
                 <div class="container" style={{margin:'-1em'}}>
                 <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
@@ -232,7 +232,7 @@ const CapeTown = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em', paddingTop:"5em"}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em', paddingTop:"5em"}}>
                 <div class="container" style={{margin:'-1em'}}>
                 <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>

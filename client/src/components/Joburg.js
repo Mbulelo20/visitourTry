@@ -3,9 +3,9 @@ import React, { Fragment } from 'react'
 const Joburg = () => {
     return (
         <Fragment>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                     <div class="container" style={{margin:'-1em'}}>
-                        <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Kruger National Park</h2></center>
+                        <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold', marginTop:'1em'}}>Kruger National Park</h2></center>
                         <div class="row" >
                             <div class="col-sm" style={{margin:'0em'}}>
                                 <img src="https://www.discoverafrica.com/images/kruger-national-park-south-africa-safari-game-drive-lions.jpg" style={{width:'105%', height:'100%'}}/>
@@ -40,7 +40,7 @@ const Joburg = () => {
                         </center>
                     </div>
                 </div>
-                <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+                <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                     <div class="container" style={{margin:'-1em'}}>
                         <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Soweto</h2></center>
                         <div class="row" >
@@ -72,7 +72,7 @@ const Joburg = () => {
                     </center>
                 </div>
             </div>
-                <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+                <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                     <div class="container" style={{margin:'-1em'}}>
                         <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Sun City</h2></center>
                         <div class="row" >

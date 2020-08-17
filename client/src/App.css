@@ -181,8 +181,9 @@ img {
 }
 
 /* Cards */
-.card {
+.cards {
   width: 60%;
+  background-color: whitesmoke;
   padding: 1rem;
   border: #ccc 1px dotted;
   margin: auto;

@@ -5,9 +5,9 @@ const Stel = () => {
     return (
         <Fragment>
             <Grid style={{backgroundColor:'lightblue'}}>
-                <h1 style={{fontFamily:'sans', fontWeight:'bolder'}}><center>Stellenbosch</center></h1>
+                <h1 style={{fontFamily:'sans', fontWeight:'bolder', marginTop:'1em', marginBottom:"1em"}}><center>Stellenbosch</center></h1>
             </Grid>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
                     <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}> Jonkershoek Nature Reserve</h2></center>
                     <div class="row" >
@@ -42,7 +42,7 @@ const Stel = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
                     <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Boschendal Wine Farm  </h2></center>
                     <div class="row" >
@@ -69,7 +69,7 @@ const Stel = () => {
                     </center>
                 </div>
             </div>
-            <div class="card" style={{width: "90%", marginBottom:'5em'}}>
+            <div class="cards" style={{width: "90%", marginBottom:'5em'}}>
                 <div class="container" style={{margin:'-1em'}}>
                     <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Rupert Museum </h2></center>
                     <div class="row" >
