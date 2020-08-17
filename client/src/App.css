@@ -64,7 +64,7 @@ body {
   width: 1000px;
   overflow-x: scroll;
   display: flex;
-  background-color: white;
+  background-color: silver;
   padding: 3rem;
 }
 .card {
@@ -77,13 +77,7 @@ body {
   padding: 1.5rem;
   transition: 0.2s;
 }
-.card-deck:hover {
-  transform: translateY(-1rem);
-}
 
-.card-deck:hover~.card{
-  transform: translateX(130px);
-}
 .animate {
   background-color: transparent;
   transition: transform .5s; /* Animation */

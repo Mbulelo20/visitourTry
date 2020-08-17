@@ -34,10 +34,10 @@ const App = () => {
          <Router>
          <Navbar/>       
 
-         <Fragment style={{ backGroundImage:'url(https://www.godfatherstyle.com/wp-content/uploads/2016/03/beautiful-nature-beach-sunset-wallpaper-2.-1.jpg'}}>
+         <Fragment>
               <div className='container'>
                 <Switch>
-                  <PrivateRoute exact path='/Gallery' component={Gallery} />
+                  <Route exact path='/Gallery' component={Gallery} />
                   <Route exact path='/' component={Homep}/>
                   <Route exact path='/Homep' component={Homep} />
                   <Route exact path='/Register' component={Register} />
