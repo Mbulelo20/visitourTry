@@ -57,6 +57,19 @@ body {
     text-align: center;
 }
 
+.animate {
+  background-color: transparent;
+  transition: transform .5s; /* Animation */
+}
+.animate:hover {
+  transform: scale(1.5); /* (150% animate - Note: if the animate is too large, it will go outside of the viewport) */
+}
+.animate:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+
 
 
 
