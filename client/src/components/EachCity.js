@@ -8,7 +8,7 @@ const EachCity = ({city: {name,tag, link, pic}}) => {
         <div className="card " style={{width:'98.5%', backgroundColor:"silver", marginLeft:'0.5em', marginBottom:'1em'}}>
             <div className="row" style={{width:'100%'}} >
                 <div class="col-sm">
-                    <img src={pic} alt="city" style={{width:'100%', height:'100%', margin:'1em'}} />
+                    <img src={pic} alt="city" style={{width:'100%', height:'85%', margin:'1em', marginBottom:"1em"}} />
                 </div>
                 <div class="col-sm">
                     <div className="card-body" style={{paddingTop:"3em"}}>
