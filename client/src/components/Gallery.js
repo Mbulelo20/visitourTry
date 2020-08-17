@@ -16,10 +16,10 @@ const Gallery = () => {
                         <MyCities/>
                     </div>
                 </div>
-                <div style={{width:'30%', height:"50%", backgroundColor:'white'}}>
-                    <CommentForm/>
-                    <Comments/>
-                </div>
+            </div>
+            <div style={{width:'30%', height:"50%", backgroundColor:'white'}}>
+                <CommentForm/>
+                <Comments/>
             </div>
         </Fragment>
         
