@@ -61,13 +61,13 @@ body {
     text-align: center;
 }
 .card-container {
-  width: 2000px;
+  width: 1000px;
   overflow-x: scroll;
   display: flex;
   background-color: #100e17;
   padding: 3rem;
 }
-.card-container {
+.card-deck {
   min-width: 300px;
   height: 350px;
   border-radius: 16px;
