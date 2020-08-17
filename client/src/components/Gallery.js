@@ -5,16 +5,14 @@ import CommentForm from './comments/CommentForm'
 
 const Gallery = () => {
     return (
-        <Fragment style={{ width:'110%'}}>
+        <Fragment>
             <div style={{marginTop:"1.5em"}}>
                 <h2 style={{fontFamily:'sans', fontWeight:'bolder'}}><center>Gallery</center></h2>
                 <h5><center>Take a look on what's on offer, and explore!</center></h5>
             </div>
             <div class="card-deck" style={{paddingTop:'5em'}}>
                 <div class="card" >
-                    <div style={{width:'100%', paddingLeft:'-1em'}}>
                         <MyCities/>
-                    </div>
                 </div>
             </div>
             <div style={{width:'30%', height:"50%", backgroundColor:'white'}}>
