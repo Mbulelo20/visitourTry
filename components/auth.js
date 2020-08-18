@@ -13,13 +13,13 @@ const User = require('../model/User')
 
 router.get('/', auth, async (req, res) => {
     try {
-        const user = await (await User.findById(req.user.id)).isSelected('-password');
-        res.json(user);
+      const user = await User.findById(req.user.id).select('-password');
+      res.json(user);
     } catch (err) {
-        console.error(err.message);
-        res.status(500).send('Server Error');
+      console.error(err.message);
+      res.status(500).send('Server Error');
     }
-});  
+  });
 
 // @component   POST api/users
 // @desc        auth users and get token
