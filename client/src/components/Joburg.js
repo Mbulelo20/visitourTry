@@ -11,7 +11,7 @@ const Joburg = () => {
                                 <img src="https://www.discoverafrica.com/images/kruger-national-park-south-africa-safari-game-drive-lions.jpg" style={{width:'105%', height:'100%'}}/>
                             </div>
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://lh3.googleusercontent.com/proxy/0w6jqs-MzgcStucCoE_oDsBoPEMU-Rm0SCBe7yfUeQTUoeBzEMQOMjQcPx7TLm3PGsI-dBnK0cJrHZiStaxlMG_wUOBW5VuyVL7RG0zVrGijARyTfxaYXKIdhar9YHfs7DtUEClaSuuY7AYD" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://www.sa-venues.com/attractions/gallery/northwest/77/5b.jpg" style={{width:'105%', height:'100%'}}/>
                             </div>
                         </div>
                         <div class="row">
@@ -77,7 +77,7 @@ const Joburg = () => {
                         <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Sun City</h2></center>
                         <div class="row" >
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://lh3.googleusercontent.com/proxy/-b7m9S9N7OEdWFSLrdjefbFOTqyKAKhap5K53G18aJygYX-BfM93ihEbXHgXJ-vJtaJSTsaX_tJkEqAtncgp7o1JUK_731HQOfGrBr-sPljQJ6puvhkS88xf_js_fMQgT0lkHvQ" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://www.sa-venues.com/attractions/gallery/northwest/77/5b.jpg" style={{width:'105%', height:'100%'}}/>
                             </div>
                             <div class="col-sm" style={{margin:'0em'}}>
                                 <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/557/55758000.jpg" style={{width:'105%', height:'100%'}}/>

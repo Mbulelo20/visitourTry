@@ -64,13 +64,13 @@ body {
   width: 1000px;
   overflow-x: scroll;
   display: flex;
-  background-color: silver;
+  background-color: white;
   padding: 3rem;
 }
 .card {
   min-width: 300px;
-  height: 350px;
-  border-radius: 16px;
+  height: 300px;
+  border-radius: 8px;
   
   display: flex;
   flex-direction: column;
