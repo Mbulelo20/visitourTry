@@ -19,7 +19,7 @@ import Gallery from './components/Gallery'
 import authContext from './context/auth/authContext';
 import CommentState from './context/CommentState'
 import PrivateRoute from './components/routing/PrivateRoute'
-
+import Alerts from './components/Alerts';
 const Logout = authContext;
 
 if(localStorage.token){
@@ -36,6 +36,7 @@ const App = () => {
 
          <Fragment>
               <div className='container'>
+                <Alerts/>
                 <Switch>
                   <Route exact path='/Gallery' component={Gallery} />
                   <Route exact path='/' component={Homep}/>
