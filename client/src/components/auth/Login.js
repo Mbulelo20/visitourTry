@@ -14,7 +14,7 @@ const Login = (props) => {
             props.history.push('/Gallery')
         }
 
-        if(error === 'Invalid Credentials'){
+        if(error === 'Either username or password wrong'){
             setAlert(error, 'danger');
             clearErrors();
         }
