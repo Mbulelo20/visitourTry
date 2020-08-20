@@ -12,7 +12,7 @@ const Register = (props) => {
     useEffect(() => {
         
         if(isAuthenticated){
-            props.history.push('/Homep')
+            props.history.push('/Gallery')
         }
 
         if(error === 'User already exists'){

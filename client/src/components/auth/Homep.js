@@ -1,11 +1,10 @@
-import React, {useContext, useEffect} from 'react'
-import AuthContext from '../../context/auth/authContext'
+import React from 'react'
 
 const Homep = () => {
     return (
-        <div class="container-fluid" style={{backgroundColor:'lightgrey', marginTop:'5em', width:'80%'}}>
+        <div class="container-fluid" style={{backgroundColor:'white', marginTop:'5em', width:'80%'}}>
              <div>
-                <h1 style={{fontFamily:"fantasy", fontWeight:'bold', color:'blue'}}>
+                <h1 style={{fontFamily:"fantasy", fontWeight:'bold', color:'navy'}}>
                     <center>visitour</center>
                 </h1>
             </div>
@@ -18,7 +17,7 @@ const Homep = () => {
                 <div class="col-sm"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqlh8c3Km2QGl2QBwMcvU4cJRE1YkGz31ung&usqp=CAU" alt="place" style={{height:'100%', width:'100%'}}/></div>
                 <div class="col-sm"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnB5IlMGitqz2bMr0vzcGPQ2sR3HFc3WkzSA&usqp=CAU" alt="place" style={{height:'100%', width:'100%'}}/></div>
             </div>   
-            <div class="row" style={{paddingTop:'3em'}}>
+            <div class="row" style={{paddingTop:'1em'}}>
                 <div style={{fontFamily:'sans'}}>
                     <center>
                         <h1>Welcome!</h1>

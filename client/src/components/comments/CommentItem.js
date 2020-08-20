@@ -1,11 +1,11 @@
 import React from 'react'
 
 const CommentItem = ({comment}) => {
-    const {userComment, type} = comment;
+    const {userComment} = comment;
 
     return (
-        <div className='card bg-light' style={{height:'auto', width:'50%', margin:'0.5em', paddingTop:'2em'}}>
-            <h6 className="text-primary text-left">
+        <div  style={{height:'1em', width:'50%', marginTop:'1em', paddingtop:'20em'}}>
+            <h6 style={{paddingtop:'20em', textDecoration:"underline"}}>
                 {userComment}{' '}
             </h6>
         </div>

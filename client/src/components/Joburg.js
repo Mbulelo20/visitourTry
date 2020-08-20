@@ -8,18 +8,18 @@ const Joburg = () => {
                         <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold', marginTop:'1em'}}>Kruger National Park</h2></center>
                         <div class="row" >
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://www.discoverafrica.com/images/kruger-national-park-south-africa-safari-game-drive-lions.jpg" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://www.discoverafrica.com/images/kruger-national-park-south-africa-safari-game-drive-lions.jpg" alt='img' style={{width:'105%', height:'100%'}}/>
                             </div>
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://www.sa-venues.com/attractions/gallery/northwest/77/5b.jpg" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://www.sa-venues.com/attractions/gallery/northwest/77/5b.jpg" alt='img' style={{width:'105%', height:'100%'}}/>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-sm">
-                                <img src="https://cdn.kimkim.com/files/a/images/765a281a2d2581da1c9eb9f5e13de3d715e2d083/big-d0c69e71702d8c4a455e5bff2648ee6b.jpg" style={{width:'107.5%'}}/>
+                                <img src="https://cdn.kimkim.com/files/a/images/765a281a2d2581da1c9eb9f5e13de3d715e2d083/big-d0c69e71702d8c4a455e5bff2648ee6b.jpg" alt='img' style={{width:'107.5%'}}/>
                             </div>
                             <div class="col-sm">
-                                <img src="https://extraordinary.co.za/wp-content/uploads/2018/06/10-reasons-to-visit-the-kruger-national-park-3.jpg" style={{width:'107.5%', height:'105%'}}/>
+                                <img src="https://extraordinary.co.za/wp-content/uploads/2018/06/10-reasons-to-visit-the-kruger-national-park-3.jpg"alt='img' style={{width:'107.5%', height:'105%'}}/>
                             </div>
                         </div>
                     </div>
@@ -45,13 +45,13 @@ const Joburg = () => {
                         <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Soweto</h2></center>
                         <div class="row" >
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/things-to-do-in-soweto-cover.jpg" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://img.traveltriangle.com/blog/wp-content/uploads/2019/01/things-to-do-in-soweto-cover.jpg" alt='img' style={{width:'105%', height:'100%'}}/>
                             </div>
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/3e/ea.jpg" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/3e/ea.jpg" alt='img' style={{width:'105%', height:'100%'}}/>
                             </div>
                             <div class="col-sm">
-                                <img src="https://s1.it.atcdn.net/wp-content/uploads/2017/05/iStock-458303355.jpg" style={{width:'107.5%'}}/>
+                                <img src="https://s1.it.atcdn.net/wp-content/uploads/2017/05/iStock-458303355.jpg" alt='img' style={{width:'107.5%'}}/>
                             </div>
                     </div>
                 </div>
@@ -77,13 +77,13 @@ const Joburg = () => {
                         <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Sun City</h2></center>
                         <div class="row" >
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://www.sa-venues.com/attractions/gallery/northwest/77/5b.jpg" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://www.sa-venues.com/attractions/gallery/northwest/77/5b.jpg" alt='img' style={{width:'105%', height:'100%'}}/>
                             </div>
                             <div class="col-sm" style={{margin:'0em'}}>
-                                <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/557/55758000.jpg" style={{width:'105%', height:'100%'}}/>
+                                <img src="https://q-cf.bstatic.com/images/hotel/max1024x768/557/55758000.jpg" alt='img' style={{width:'105%', height:'100%'}}/>
                             </div>
                             <div class="col-sm">
-                                <img src="https://www.telegraph.co.uk/content/dam/Travel/2019/January/sun-city-GettyImages-52674580.jpg?imwidth=450" style={{width:'107.5%'}}/>
+                                <img src="https://www.telegraph.co.uk/content/dam/Travel/2019/January/sun-city-GettyImages-52674580.jpg?imwidth=450" alt='img' style={{width:'107.5%'}}/>
                             </div>
                     </div>
                 </div>

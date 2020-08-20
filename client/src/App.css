@@ -11,6 +11,7 @@
 body {
   background-image: url("https://live.staticflickr.com/166/386088819_e5b07c6924_b.jpg");
   background-size: cover;
+  background-attachment: fixed;
 }
 .carousel-inner img {
   width: 100%;

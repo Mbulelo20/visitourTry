@@ -12,16 +12,16 @@ const Stel = () => {
                     <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}> Jonkershoek Nature Reserve</h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
-                            <img src="https://www.hikingsouthafrica.co.za/wp-content/uploads/jonkershoek-panorama-route-2019-03-21-65-1024x683.jpg" style={{width:'107%', height:'100%'}}/>
+                            <img src="https://www.hikingsouthafrica.co.za/wp-content/uploads/jonkershoek-panorama-route-2019-03-21-65-1024x683.jpg" alt='img' style={{width:'107%', height:'100%'}}/>
                         </div>
                         <div class="col-sm" style={{margin:'0em'}}>
-                            <img src="https://www.capetownetc.com/wp-content/uploads/2020/02/c0ea3e498513c5d6e83e45646e3049c0-1024x678.jpg" style={{width:'107%', height:'100%'}}/>
+                            <img src="https://www.capetownetc.com/wp-content/uploads/2020/02/c0ea3e498513c5d6e83e45646e3049c0-1024x678.jpg" alt='img' style={{width:'107%', height:'100%'}}/>
                         </div>
                         <div class="col-sm">
-                            <img src="https://ctuat.co.za/wp-content/uploads/2015/07/hike.jpg" style={{width:'107%', height:'110%'}}/>
+                            <img src="https://ctuat.co.za/wp-content/uploads/2015/07/hike.jpg" alt='img' style={{width:'107%', height:'110%'}}/>
                         </div>
                         <div class="col-sm">
-                            <img src="https://bicyclesouth.co.za/wp-content/uploads/2017/02/Jonkershoek5.jpg" style={{width:'107%', height:'110%'}}/>
+                            <img src="https://bicyclesouth.co.za/wp-content/uploads/2017/02/Jonkershoek5.jpg" alt='img' style={{width:'107%', height:'110%'}}/>
                         </div>
                     </div>
                 </div>
@@ -47,13 +47,13 @@ const Stel = () => {
                     <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Boschendal Wine Farm  </h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
-                            <img src="https://r-cf.bstatic.com/images/hotel/max1280x900/190/190929003.jpg" style={{width:'107%', height:'100%'}}/>
+                            <img src="https://r-cf.bstatic.com/images/hotel/max1280x900/190/190929003.jpg" alt='img' style={{width:'107%', height:'100%'}}/>
                         </div>
                         <div class="col-sm" style={{margin:'0em'}}>
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Boschendal.jpg/1200px-Boschendal.jpg" style={{width:'107%', height:'100%'}}/>
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Boschendal.jpg/1200px-Boschendal.jpg"  alt='img' style={{width:'107%', height:'100%'}}/>
                         </div>
                         <div class="col-sm">
-                            <img src="https://www.boschendal.com/images/made/images/uploads/Farm_Feast-330-cobie_22_copy_450_450_s_c1.JPG" style={{width:'107%', height:'110%'}}/>
+                            <img src="https://www.boschendal.com/images/made/images/uploads/Farm_Feast-330-cobie_22_copy_450_450_s_c1.JPG" alt='img' style={{width:'107%', height:'110%'}}/>
                         </div>
                     </div>
                 </div>
@@ -74,13 +74,13 @@ const Stel = () => {
                     <center><h2 class="card-title" style={{fontFamily:'sans serif', fontWeight:'bold'}}>Rupert Museum </h2></center>
                     <div class="row" >
                         <div class="col-sm" style={{margin:'0em'}}>
-                            <img src="https://www.portfoliocollection.com/img/cache/img/uploads/attractions682x512_25697527_rupert-museum_6.jpg?v1455650004" style={{width:'107%', height:'100%'}}/>
+                            <img src="https://www.portfoliocollection.com/img/cache/img/uploads/attractions682x512_25697527_rupert-museum_6.jpg?v1455650004" alt='img' style={{width:'107%', height:'100%'}}/>
                         </div>
                         <div class="col-sm" style={{margin:'0em'}}>
-                            <img src="https://lh3.googleusercontent.com/4AchTrxS7BL0l11P63uwdosF0f0mxfzxPwHEIjpgM-2hA_O2cqjB29M0kuxWHDt0w94xUalCt-17zzxpC93H3RE" style={{width:'107%', height:'100%'}}/>
+                            <img src="https://lh3.googleusercontent.com/4AchTrxS7BL0l11P63uwdosF0f0mxfzxPwHEIjpgM-2hA_O2cqjB29M0kuxWHDt0w94xUalCt-17zzxpC93H3RE" alt='img' style={{width:'107%', height:'100%'}}/>
                         </div>
                         <div class="col-sm">
-                            <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/e6/0a/f8/overall-view-inside-the.jpg" style={{width:'107%', height:'110%'}}/>
+                            <img src="https://media-cdn.tripadvisor.com/media/photo-s/0d/e6/0a/f8/overall-view-inside-the.jpg" alt='img' style={{width:'107%', height:'110%'}}/>
                         </div>
                     </div>
                 </div>
