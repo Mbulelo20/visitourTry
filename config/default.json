@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://mbulelo:VoyagerI@userlogin.tivik.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://mbulelodev:mbulelo12@cluster0.18izq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "secret"
 }

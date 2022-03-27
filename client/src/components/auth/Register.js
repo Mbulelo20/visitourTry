@@ -20,7 +20,7 @@ const Register = (props) => {
             clearErrors();
         }
         // selint-disable-next-line
-    }, [error, isAuthenticated, props.history])
+    }, [error, isAuthenticated, props.history, clearErrors, setAlert])
 
     const [user, setUser] = useState({
         name: '',

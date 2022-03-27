@@ -10,5 +10,7 @@ export default (state, action) => {
                 ...state,
                 comments: [...state.comments, action.payload]
             }
+            default:
+                return state;    
     }
 }
